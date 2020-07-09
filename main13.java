@@ -7,7 +7,6 @@ public class main13 {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner (System.in);
 		
-
 		char resp;
 		
 		do  {
